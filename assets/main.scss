@@ -3,21 +3,16 @@
 
 @import "minima";
 
-/* Fuente Inter (variable) */
-@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
-
-/* Forzar Inter en todo el sitio */
-html,
-body,
-.site-title,
-.site-nav,
-.post-title,
-.page-title,
-.post-content,
-.post-content p,
-.post-content li {
+/* Aplicar Inter a todo */
+body, html {
   font-family: "Inter", sans-serif !important;
 }
+
+.site-title, .site-nav, .post-title, .page-title,
+.post-content, .post-content p, .post-content li {
+  font-family: "Inter", sans-serif !important;
+}
+
 
 
 /* Títulos y navegación */
