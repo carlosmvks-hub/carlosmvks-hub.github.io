@@ -5,7 +5,6 @@ date: 2025-11-20
 categories: [medicina]
 ---
 
-<div style="text-align: justify;">
 
 # **Anamnesis clínica: una guía humana y técnica**
 
@@ -154,5 +153,4 @@ La seriedad no siempre es enojo: muchas veces es miedo.
 7. Baldwin & Maynard. *Active listening*.  
 8. University of Iowa. *Can medical schools teach empathy?*
 
-</div>
 
