@@ -1,10 +1,10 @@
 ---
-layout: page
+layout: category
 title: Filosofía
 permalink: /filosofia/
+category: filosofia
+description: Reflexiones, ideas y cuestionamientos sobre pensamiento crítico, filosofía y existencia.
 ---
-
-Reflexiones, ideas y cuestionamientos sobre pensamiento crítico, filosofía y existencia.
 
 {% for post in site.posts %}
   {% if post.categories contains "Filosofia" %}
