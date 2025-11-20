@@ -1,0 +1,50 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  {% if page.title %}
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {% endif %}
+
+  <div class="home-intro">
+    {{ # Bienvenido a mi blog
+
+Aquí escribo sobre medicina, pensamiento crítico, filosofía, teología, salud pública y los proyectos que voy trabajando como estudiante de Medicina en la UNAH.
+
+Uso este espacio para ordenar lo que aprendo y para compartirlo sin vueltas. Creo que el conocimiento sirve de verdad cuando circula, cuando alguien más puede tomarlo, cuestionarlo o usarlo para pensar mejor.
+
+Escribo para entender, y en el proceso, comparto. }}
+  </div>
+
+  {% if site.posts.size > 0 %}
+    <h2 class="post-list-heading">
+      {{ page.list_title | default: "Posts" }}
+    </h2>
+
+    <ul class="post-list">
+      {% for post in site.posts %}
+        <li class="post-card">
+          <span class="post-meta">
+            {{ post.date | date: "%b %-d, %Y" }}
+          </span>
+
+          <h3>
+            <a class="post-link" href="{{ post.url | relative_url }}">
+              {{ post.title | escape }}
+            </a>
+          </h3>
+
+          <p>
+            {{ post.excerpt | strip_html | truncate: 180 }}
+          </p>
+
+          <a class="read-more" href="{{ post.url | relative_url }}">
+            Leer más →
+          </a>
+        </li>
+      {% endfor %}
+    </ul>
+  {% endif %}
+</div>
