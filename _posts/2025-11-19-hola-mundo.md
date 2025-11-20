@@ -1,6 +1,6 @@
 ---
 title: "Primer paso"
-date: 19-11-25
+date: 25-11-19
 categories: [Reflexión]
 ---
 
