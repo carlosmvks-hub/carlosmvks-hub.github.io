@@ -8,7 +8,7 @@ layout: default
     <h1 class="page-heading">{{ page.title }}</h1>
   {% endif %}
 
-  <!-- Intro de la portada: toma lo que escribiste en index.md -->
+  <!-- INTRO -->
   <div class="home-intro">
     {{ content }}
   </div>
@@ -21,9 +21,7 @@ layout: default
     <ul class="post-list">
       {% for post in site.posts %}
         <li class="post-card">
-          <span class="post-meta">
-            {{ post.date | date: "%b %-d, %Y" }}
-          </span>
+          <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
           <h3>
             <a class="post-link" href="{{ post.url | relative_url }}">
@@ -31,9 +29,7 @@ layout: default
             </a>
           </h3>
 
-          <p>
-            {{ post.excerpt | strip_html | truncate: 180 }}
-          </p>
+          <p>{{ post.excerpt | strip_html | truncate: 180 }}</p>
 
           <a class="read-more" href="{{ post.url | relative_url }}">
             Leer más →
