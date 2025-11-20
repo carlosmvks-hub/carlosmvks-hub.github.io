@@ -7,7 +7,7 @@ description: Reflexiones, ideas y cuestionamientos sobre pensamiento crítico, f
 ---
 
 {% for post in site.posts %}
-  {% if post.categories contains "Filosofia" %}
+  {% if post.categories contains "filosofia" %}
   - [{{ post.title }}]({{ post.url }})
   {% endif %}
 {% endfor %}
