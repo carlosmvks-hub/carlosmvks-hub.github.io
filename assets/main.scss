@@ -197,3 +197,37 @@ body {
     margin-top: 1.5rem;
   }
 }
+
+/* ---------- HERO SUPERIOR ---------- */
+
+.hero {
+  margin: 2.5rem 0 2rem 0;
+  padding: 2.5rem 2.75rem;
+  border-radius: 18px;
+  background: var(--bg-alt);
+  border: 1px solid var(--card-border);
+}
+
+.hero-content {
+  max-width: 720px;
+}
+
+.hero-kicker {
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.18em;
+  color: var(--muted);
+  margin-bottom: 0.75rem;
+}
+
+.hero-title {
+  font-size: 2.4rem;
+  margin: 0 0 0.75rem 0;
+}
+
+.hero-tagline {
+  font-size: 1rem;
+  color: var(--muted);
+  line-height: 1.8;
+}
+
