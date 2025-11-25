@@ -127,7 +127,7 @@ Antes de ser figura presidencial, Asfura fue:
 - Candidato presidencial en 2021 y nuevamente en 2025 por el Partido Nacional.
     
 
-Su gestión municipal dejó huella visible: pavimentación masiva, orden vial, proyectos de infraestructura y una organización administrativa que muchos —incluso opositores— reconocen como eficiente.
+Su gestión municipal dejó huella visible: pavimentación masiva, orden vial, proyectos de infraestructura y una organización administrativa que muchos, incluso opositores, reconocen como eficiente.
 
 Pero su ascenso político también está marcado por algo inevitable: la sombra del Partido Nacional y de sus propios señalamientos.
 
