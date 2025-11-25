@@ -20,7 +20,10 @@ Lo que sigue no busca convencer a nadie, sino mostrar, con la mayor claridad pos
 Porque decidir no es escoger quién habla más bonito.  Es entender **qué futuro estamos poniendo en la mesa**.
 
 
-# **Retrato de cada candidato**
+
+#**Retrato de cada candidato**
+
+
 
 ## **Salvador Nasralla — El anticorrupción que quiere rehacer el Estado desde las entrañas**
 
@@ -200,7 +203,7 @@ Ella se presenta como la ingeniera de un Estado más justo, más presente, más 
 
 Pero como toda ingeniería política, su proyecto tiene planos ambiciosos y cimientos frágiles.
 
-## **Trayectoria
+## **Trayectoria**
 
 Para entender a Rixi, hay que reconocer su posición:  no es una candidata improvisada. Es, desde hace años, **una de las operadoras más influyentes del proyecto Libre**.
 
