@@ -29,8 +29,6 @@ De ahí nace su narrativa quirúrgica: Honduras no está pobre porque carezca de
 
 Ese mensaje conecta con una ciudadanía asfixiada por abusos, promesas rotas y décadas de malos manejos. Nasralla entendió algo simple: la gente no quiere un filósofo económico, quiere un _filtro antipandemia estatal_.
 
----
-
 ## **Trayectoria: del set al poder político**
 
 Pero entender a Nasralla implica retroceder.
@@ -53,8 +51,6 @@ Su recorrido desde entonces ha sido accidentado:
 Su fortaleza no ha sido la estructura, sino la narrativa.  
 Es más sacerdote anticorrupción que político tradicional.
 
----
-
 Nasralla construyó su identidad sobre cuatro pilares:
 
 1. **Denuncia pública constante**: nadie en política ha acusado tanto, por tanto tiempo.
@@ -74,8 +70,6 @@ Las propuestas suelen carecer de cifras sólidas, proyecciones financieras clara
 
 **Es un idealista moral enfrentado a un Estado diseñado para desgastar idealistas.**
 
----
-
 ## **Puntos débiles y sombras reales**
 
 Aunque no tiene escándalos típicos de corrupción, su historia política está llena de fragilidades:
@@ -94,8 +88,6 @@ Aunque no tiene escándalos típicos de corrupción, su historia política está
     
 
 Es decir:  **tiene voluntades de acero, pero no siempre caminos realistas.**
-
----
 
 Nasralla encarna la figura clásica del **moralista que quiere rehacer el mundo desde la virtud**, sin aceptar que la virtud, sola, no gobierna.  
 Es la eterna tensión entre lo correcto y lo posible.
@@ -118,8 +110,6 @@ Ese estilo transmite una sensación de eficacia inmediata en un país cansado de
 
 Pero esa misma serenidad esconde grietas relevantes.
 
----
-
 ## **Trayectoria: del empresario municipal al operador nacional**
 
 Antes de ser figura presidencial, Asfura fue:
@@ -139,8 +129,6 @@ Su gestión municipal dejó huella visible: pavimentación masiva, orden vial, p
 
 Pero su ascenso político también está marcado por algo inevitable: la sombra del Partido Nacional y de sus propios señalamientos.
 
----
-
 ## **Las sombras inevitables: eficiencia sí, pero con interrogantes éticos**
 
 Asfura carga con un historial de cuestionamientos que no pueden ignorarse:
@@ -159,8 +147,6 @@ No tiene condenas judiciales, pero sí un ambiente persistente de sospecha que a
 Aquí está el dilema Asfura:  
 **gestiona bien, pero la transparencia es su talón de Aquiles.**
 
----
-
 ## **Su narrativa: trabajo, orden y resultados**
 
 Es una propuesta emocionalmente poderosa porque ofrece algo que Honduras añora: previsibilidad.
@@ -178,8 +164,6 @@ Pero cuando pasamos al terreno técnico, los vacíos aparecen.
     Da la impresión de querer administrar Honduras como administró la Alcaldía: eficiente, sí, pero sin tocar los cimientos políticos que producen el caos nacional.
     
 
----
-
 ## **El estilo Asfura: virtudes reales y límites estructurales**
 
 ### **Fortaleza principal:**
@@ -193,8 +177,6 @@ Pocos políticos hondureños tienen resultados materiales tan tangibles.
 No dice claramente _hacia dónde_ quiere llevar al país.  
 No presenta una visión de transformación profunda.  
 Y sus señalamientos de corrupción siguen siendo un ruido que no se apaga.
-
----
 
 Asfura es el **tecnócrata conservador**: el hombre que cree que el país se arregla administrándolo con disciplina, no reformándolo.
 
@@ -216,8 +198,6 @@ Es un discurso seductor para quienes sienten que el país fue hecho por y para �
 Ella se presenta como la ingeniera de un Estado más justo, más presente, más redistributivo.
 
 Pero como toda ingeniería política, su proyecto tiene planos ambiciosos y cimientos frágiles.
-
----
 
 ## **Trayectoria
 
@@ -242,8 +222,6 @@ Su carrera ha sido ascenso, consolidación y presencia constante en los nodos de
 
 Rixi no es una figura decorativa:  es la **ingeniera política del proyecto refundacional**.
 
----
-
 ## **Las sombras que la acompañan**
 
 Su poder dentro del Estado no ha estado exento de controversias. No enfrenta casos judiciales ni acusaciones formales de corrupción; las críticas que se le hacen son de carácter político y administrativo, no penal. Pero dichas controversias sí moldean su perfil:
@@ -259,8 +237,6 @@ Su poder dentro del Estado no ha estado exento de controversias. No enfrenta cas
 
 No enfrenta causas judiciales formales, pero su huella política está marcada por decisiones fuertes, polémicas y profundamente ideológicas.
 
----
-
 ## **Su narrativa: justicia social, soberanía y Estado fuerte**
 
 La propuesta de Rixi gira alrededor de tres ejes:
@@ -275,9 +251,7 @@ La propuesta de Rixi gira alrededor de tres ejes:
 Es un proyecto que promete corregir décadas de desigualdad mediante redistribución, inclusión y expansión del Estado.  
 Pero esa expansión trae un costo que su campaña a veces evita pronunciar:
 
-> Un Estado más grande también es un Estado más caro, más lento y más propenso a capturas internas si no hay controles sólidos.
-
----
+Un Estado más grande también es un Estado más caro, más lento y más propenso a capturas internas si no hay controles sólidos.
 
 ## **Los riesgos estructurales de su visión**
 
@@ -297,8 +271,6 @@ Aquí está la parte que exige frialdad analítica:
 Nada de esto es garantía de fracaso.  
 Pero tampoco es un camino sin costo.
 
----
-
 ## **El estilo Rixi**
 
 Entre los tres candidatos, Rixi es **la más ideológica**.  
@@ -316,8 +288,6 @@ No improvisa, no flaquea, no suaviza. Tiene una convicción que impresiona inclu
 Su liderazgo es **estructural**.  
 No busca gustar; busca transformar.
 
----
-
 Rixi encarna la figura clásica del **reformador radical**, el tipo de líder que cree que la justicia verdadera solo emerge cuando se alteran las estructuras que producen injusticia.
 
 Su visión es prometedora para quienes sienten que el país nunca ha sido suyo.  
@@ -329,12 +299,13 @@ En otras palabras:
 o el terremoto que desacomoda más de lo que corrige.**
 
 Y esa ambivalencia es exactamente lo que la hace tan poderosa y tan peligrosa.
+
+--- 
 # **¿Qué propone cada candidato?**
 
 Acá hacemos un paneo limpio, sin tecnicismos pesados, de **qué dice realmente cada candidato que hará**.  
 Después pasamos una gran tabla comparativa.
 
----
 # **– Economía y Empleo**
 
 ### **Salvador Nasralla**
@@ -354,17 +325,13 @@ Proyecto de **refundación económica**: Estado más grande y más interventor.
 Apuesta por **banca pública fuerte**, democratización del crédito, eliminación de privilegios fiscales, subsidios focalizados y un giro a **producción nacional con valor agregado**, cooperativas y protección de sectores estratégicos.  
 Su enfoque es de **redistribución y soberanía económica**, con el mercado subordinado al interés público.
 
----
-
-## **Comparación estructural**
+#### **Comparación**
 
 - **Nasralla**: capitalismo competitivo + transparencia + Estado eficiente.
     
 - **Asfura**: capitalismo de estabilidad + obra pública + inversión privada tradicional.
     
 - **Rixi**: capitalismo estatal redistributivo + intervención fuerte + reforma estructural.
-
----
 
 # **- Infraestructura y Vivienda**
 
@@ -396,17 +363,13 @@ Enfoque de infraestructura **orientada al bienestar social y la soberanía**:
 
 No busca solo construir, sino **redistribuir**, integrar regiones postergadas y blindar recursos del país.
 
----
-
-## **Comparación**
+#### **Comparación**
 
 - **Nasralla**: ambición logística y megaproyectos.
     
 - **Asfura**: ejecución probada y maquinaria municipalista.
     
 - **Rixi**: infraestructura con propósito social, territorial y soberano.
-
----
 
 # **- Seguridad**
 
@@ -441,9 +404,7 @@ Seguridad desde una visión de **causas estructurales**:
 
 Su enfoque es **social, preventivo y de largo plazo**, más institucional que punitivo.
 
----
-
-## **Comparación**
+#### **Comparación**
 
 - **Nasralla**: doctrina de choque, resultados rápidos a través de excepcionalidad y fuerza.
     
@@ -455,8 +416,6 @@ Su enfoque es **social, preventivo y de largo plazo**, más institucional que pu
 Nasralla quiere **pacificar por saturación**;  
 Asfura quiere **ordenar por funcionamiento**;  
 Rixi quiere **transformar por inclusión**.
-
----
 
 # **- Salud**
 
@@ -494,16 +453,13 @@ Propone un **Sistema Nacional de Salud Integrado**, con pilares claros:
 
 Su lógica: **expansión del Estado sanitario + universalidad + protección social estructural**.
 
----
-
-## **Comparación**
+#### **Comparación**
 
 - **Nasralla**: reforma logística "que funcione y no se robe".
     
 - **Asfura**: orden operativo "mantener, abastecer y servir".
     
 - **Rixi**: reconceptualización estructural "la salud es del pueblo y el Estado la garantiza".
----
 
 # **- Educación**
 
@@ -538,17 +494,13 @@ Plantea una **reforma educativa estructural y social**:
 
 Su lógica: **educación como herramienta de justicia social, identidad y movilidad colectiva**.
 
----
-
-## **Comparación**
+#### **Comparación**
 
 - **Nasralla**: educación para la **competitividad y el mercado**.
     
 - **Asfura**: educación como **servicio que debe funcionar todos los días**.
     
 - **Rixi**: educación como **derecho, identidad y equidad social**.
-
----
 
 # **-Política Exterior**
 
@@ -582,17 +534,13 @@ La más definida ideológicamente:
 
 Su lógica: **autonomía geopolítica + multipolaridad + afinidad con el bloque progresista**.
 
----
-
-## **Comparación**
+#### **Comparación**
 
 - **Asfura**: **alineamiento total con EE.UU.-Taiwán**.
     
 - **Rixi**: **apuesta por China + eje progresista latinoamericano**.
     
 - **Nasralla**: **pragmatismo occidental moderado**, sin romper con China.
-
----
 
 # **-Programas Sociales**
 
@@ -619,8 +567,6 @@ Su visión es **municipalista y comunitaria**:
 
 Su lógica: programas sociales **desde el municipio hacia la comunidad**, con énfasis en servicio y orden.
 
----
-
 ### **Rixi Moncada**
 
 Plantea la **expansión más amplia del Estado social** entre los tres candidatos:  
@@ -633,9 +579,7 @@ Plantea la **expansión más amplia del Estado social** entre los tres candidato
 
 Su lógica: **Estado protector, inclusivo y redistributivo**, ampliando cobertura e inversión pública.
 
----
-
-## **Comparación**
+#### **Comparación**
 
 - **Nasralla**: corrige, eficiencia y transparencia sin expandir demasiado.
     
@@ -645,34 +589,31 @@ Su lógica: **Estado protector, inclusivo y redistributivo**, ampliando cobertur
 
 ---
 
-# **Tabla Comparativa Global de Candidatos (Nasralla • Asfura • Rixi)**.
-
----
+# **Tabla Comparativa Global de Candidatos**.
 
 ### **COMPARATIVA GLOBAL**
-| **Área**                    | **Salvador Nasralla**                                                                                                              | **Nasry "Tito" Asfura**                                                                                                          | **Rixi Moncada**                                                                                        |
-| --------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
-| **Modelo económico**        | Liberal-digital. Productividad, reglas claras, reducción de costos y modernización del Estado.                                     | Proempresa clásico. Orden fiscal, estabilidad macro, incentivos al sector privado.                                               | Estado ampliado, cooperativas, banca pública, empresas estatales y reforma redistributiva.              |
-| **Empleo**                  | Industrialización, empleo por hora, manufactura y agroindustria. Ventanilla única en 72h.                                          | Empleo mediante obra pública masiva y estabilidad institucional.                                                                 | Empleo comunitario, cooperativas y expansión de programas sociales.                                     |
-| **Infraestructura**         | Megaproyectos: canal seco, 1,100 km nuevos, 19,000 km mantenimiento, modernización de puertos y aduanas.                           | 5,000 km pavimentados, corredores productivos, puentes, represas y modelo municipalista.                                         | Infraestructura social: vivienda digna, caminos productivos, cultura, deporte, obras comunitarias.      |
-| **Vivienda**                | 311,000 viviendas (meta muy ambiciosa y costosa).                                                                                  | 220,000 viviendas en 4 años dentro de meta de 550,000 en 10 años.                                                                | Vivienda social ampliada para grupos vulnerables.                                                       |
-| **Seguridad**               | "Plan Bukele" adaptado: estados de excepción, control territorial, cárceles de máxima seguridad. Meta: <10 homicidios por 100 mil. | Mano dura sin excepcionalidad masiva: fortalecimiento policial, penas duras, pago digital en transporte para bloquear extorsión. | Seguridad social: atacar causas estructurales como pobreza, exclusión y juventud en riesgo.             |
-| **Salud**                   | Reforma administrativa: abastecimiento, digitalización, control de compras, más personal y tecnología.                             | Cero mora quirúrgica, mayor abastecimiento, expediente digital, posibles alianzas público-privadas.                              | Sistema integrado universal: laboratorios estatales, más hospitales, atención comunitaria y preventiva. |
-| **Educación**               | Digitalización, educación financiera, institutos técnicos regionales, conectividad y bilingüismo.                                  | Reparación de 18,000 escuelas, becas, merienda escolar, laboratorios de computación y robótica.                                  | Educación con enfoque de equidad: identidad nacional, cultura, becas masivas y descentralización.       |
-| **Política exterior**       | Pragmatismo económico; mantener alianzas diversas buscando beneficio comercial.                                                    | Alineamiento fuerte con EE.UU. y Taiwán; reversión del vínculo con China.                                                        | Multipolaridad: alianza con China, países progresistas y agenda soberanista.                            |
-| **Relación con China**      | Mantener si conviene económicamente.                                                                                               | Romper relación y volver a Taiwán.                                                                                               | Consolidar y expandir relación.                                                                         |
-| **Relación con EE.UU.**     | Cooperación pragmática, especialmente anticorrupción y seguridad.                                                                  | Relación muy cercana en todos los ámbitos.                                                                                       | Menor dependencia, pero cooperación operativa continúa.                                                 |
-| **MIPYMEs**                 | Créditos blandos, compras públicas, ventanilla de 72h, digitalización de trámites.                                                 | Incentivos tradicionales y apoyo empresarial clásico.                                                                            | Cooperativas, banca pública, subsidios y programas comunitarios.                                        |
-| **Programas sociales**      | Reordenamiento y transparencia en subsidios para evitar fugas.                                                                     | Redes municipales, adultos mayores, apoyo local focalizado.                                                                      | Expansión masiva hacia juventud, discapacidad, pueblos originarios y mujeres.                           |
-| **Finanzas públicas**       | Depende de saneamiento del gasto y renegociación de deuda para financiar megaproyectos.                                            | Orden fiscal y disciplina con financiamiento externo tradicional.                                                                | Reforma fiscal progresiva para aumentar recaudación de altos ingresos y empresas.                       |
-| **Riesgos estructurales**   | Sobrecostos, baja capacidad estatal y desgaste por medidas de seguridad duras.                                                     | Riesgo diplomático alto por ruptura con China y riesgo de continuidad sin reformas.                                              | Riesgo fiscal elevado, fuga de inversión privada y tensiones geopolíticas.                              |
-| **Viabilidad técnica**      | Media: grandes proyectos requieren capacidad estatal sólida.                                                                       | Alta: propone lo que ya ha ejecutado antes.                                                                                      | Media-baja: exige reestructuración estatal y económica amplia.                                          |
-| **Viabilidad política**     | Media: depende de Congreso para seguridad y reformas anticorrupción.                                                               | Alta: propuestas poco conflictivas y populares.                                                                                  | Baja: enfrenta oposición fuerte del sector privado y actores internacionales.                           |
-
+| **Área**                  | **Salvador Nasralla**                                                                                                              | **Nasry "Tito" Asfura**                                                                                                          | **Rixi Moncada**                                                                                        |
+| ------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
+| **Modelo económico**      | Liberal-digital. Productividad, reglas claras, reducción de costos y modernización del Estado.                                     | Proempresa clásico. Orden fiscal, estabilidad macro, incentivos al sector privado.                                               | Estado ampliado, cooperativas, banca pública, empresas estatales y reforma redistributiva.              |
+| **Empleo**                | Industrialización, empleo por hora, manufactura y agroindustria. Ventanilla única en 72h.                                          | Empleo mediante obra pública masiva y estabilidad institucional.                                                                 | Empleo comunitario, cooperativas y expansión de programas sociales.                                     |
+| **Infraestructura**       | Megaproyectos: canal seco, 1,100 km nuevos, 19,000 km mantenimiento, modernización de puertos y aduanas.                           | 5,000 km pavimentados, corredores productivos, puentes, represas y modelo municipalista.                                         | Infraestructura social: vivienda digna, caminos productivos, cultura, deporte, obras comunitarias.      |
+| **Vivienda**              | 311,000 viviendas (meta muy ambiciosa y costosa).                                                                                  | 220,000 viviendas en 4 años dentro de meta de 550,000 en 10 años.                                                                | Vivienda social ampliada para grupos vulnerables.                                                       |
+| **Seguridad**             | "Plan Bukele" adaptado: estados de excepción, control territorial, cárceles de máxima seguridad. Meta: <10 homicidios por 100 mil. | Mano dura sin excepcionalidad masiva: fortalecimiento policial, penas duras, pago digital en transporte para bloquear extorsión. | Seguridad social: atacar causas estructurales como pobreza, exclusión y juventud en riesgo.             |
+| **Salud**                 | Reforma administrativa: abastecimiento, digitalización, control de compras, más personal y tecnología.                             | Cero mora quirúrgica, mayor abastecimiento, expediente digital, posibles alianzas público-privadas.                              | Sistema integrado universal: laboratorios estatales, más hospitales, atención comunitaria y preventiva. |
+| **Educación**             | Digitalización, educación financiera, institutos técnicos regionales, conectividad y bilingüismo.                                  | Reparación de 18,000 escuelas, becas, merienda escolar, laboratorios de computación y robótica.                                  | Educación con enfoque de equidad: identidad nacional, cultura, becas masivas y descentralización.       |
+| **Política exterior**     | Pragmatismo económico; mantener alianzas diversas buscando beneficio comercial.                                                    | Alineamiento fuerte con EE.UU. y Taiwán; reversión del vínculo con China.                                                        | Multipolaridad: alianza con China, países progresistas y agenda soberanista.                            |
+| **Relación con China**    | Mantener si conviene económicamente.                                                                                               | Romper relación y volver a Taiwán.                                                                                               | Consolidar y expandir relación.                                                                         |
+| **Relación con EE.UU.**   | Cooperación pragmática, especialmente anticorrupción y seguridad.                                                                  | Relación muy cercana en todos los ámbitos.                                                                                       | Menor dependencia, pero cooperación operativa continúa.                                                 |
+| **MIPYMEs**               | Créditos blandos, compras públicas, ventanilla de 72h, digitalización de trámites.                                                 | Incentivos tradicionales y apoyo empresarial clásico.                                                                            | Cooperativas, banca pública, subsidios y programas comunitarios.                                        |
+| **Programas sociales**    | Reordenamiento y transparencia en subsidios para evitar fugas.                                                                     | Redes municipales, adultos mayores, apoyo local focalizado.                                                                      | Expansión masiva hacia juventud, discapacidad, pueblos originarios y mujeres.                           |
+| **Finanzas públicas**     | Depende de saneamiento del gasto y renegociación de deuda para financiar megaproyectos.                                            | Orden fiscal y disciplina con financiamiento externo tradicional.                                                                | Reforma fiscal progresiva para aumentar recaudación de altos ingresos y empresas.                       |
+| **Riesgos estructurales** | Sobrecostos, baja capacidad estatal y desgaste por medidas de seguridad duras.                                                     | Riesgo diplomático alto por ruptura con China y riesgo de continuidad sin reformas.                                              | Riesgo fiscal elevado, fuga de inversión privada y tensiones geopolíticas.                              |
+| **Viabilidad técnica**    | Media: grandes proyectos requieren capacidad estatal sólida.                                                                       | Alta: propone lo que ya ha ejecutado antes.                                                                                      | Media-baja: exige reestructuración estatal y económica amplia.                                          |
+| **Viabilidad política**   | Media: depende de Congreso para seguridad y reformas anticorrupción.                                                               | Alta: propuestas poco conflictivas y populares.                                                                                  | Baja: enfrenta oposición fuerte del sector privado y actores internacionales.                           |
 
 # **Conclusión**
 
-## **Tres caminos, un país agotado, y la responsabilidad de elegir con los ojos abiertos**
+### **Tres caminos, un país agotado, y la responsabilidad de elegir con los ojos abiertos**
 
 Honduras no está eligiendo solamente un presidente. Está decidiendo **qué clase de futuro está dispuesto a cargar sobre la espalda**, sabiendo que ninguno viene gratis, que todos muerden en algún punto.
 
@@ -684,10 +625,7 @@ Y es ahí donde se nota que cada modelo tiene su fuerza... y su precio.
 **Asfura** propone gestionar el país con disciplina y continuidad, apoyándose en un estilo que prioriza funcionamiento sobre narrativa. Es un modelo que privilegia el orden, la obra y la administración constante. Pero tampoco es una solución definitiva. Mantener el país “andando” no necesariamente lo saca de las estructuras que lo detienen. Su fortaleza es la ejecución; su techo, la falta de un rediseño más profundo.
 
 **Rixi** apuesta por un Estado más presente y un giro redistributivo que busca corregir desigualdades históricas. La intención es clara: un país donde la intervención pública sea la barra de equilibrio. Pero ese camino tampoco es sencillo. Requiere recursos, estabilidad y un contexto internacional que no siempre está a favor. Su valor está en la convicción de transformación; su riesgo, en el costo económico y político que eso implica.
-
----
-
-## **La parte inevitable: todo tiene un precio**
+### **La parte inevitable: todo tiene un precio**
 
 No existe el camino perfecto.  
 No existe la propuesta indolora.
@@ -702,10 +640,7 @@ No existe la propuesta indolora.
 No se puede tenerlo todo.  
 No en este país.  
 No al mismo tiempo.
-
----
-
-## **La pregunta real no es quién promete más, sino qué país vas a ser capaz de sostener cuando las promesas se topen con la realidad**
+### **La pregunta real no es quién promete más, sino qué país vas a ser capaz de sostener cuando las promesas se topen con la realidad**
 
 Porque ese momento llega, siempre llega.  
 La política hondureña tiene una habilidad especial para recordarte que ningún plan sobrevive intacto al choque con el país real.
