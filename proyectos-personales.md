@@ -9,7 +9,7 @@ Es el cuarto intermedio donde mi mente dialoga consigo misma, sin la obligación
 ---
 
 {% for post in site.posts %}
-  {% if post.categories contains "pyoyectos" %}
+  {% if post.categories contains "proyectos" %}
   - [{{ post.title }}]({{ post.url }})
   {% endif %}
 {% endfor %}
