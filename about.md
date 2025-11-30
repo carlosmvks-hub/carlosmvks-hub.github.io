@@ -4,33 +4,38 @@ title: Sobre mí
 permalink: /sobre-mi/
 ---
 
-  Soy Carlos Reyes, estudiante de medicina en la UNAH.
-Este blog es mi cuaderno público de trabajo. Un espacio donde registro investigaciones sobre temas relevantes 
-o de mi interés, registro lo que estudio, lo que descubro y lo que intento convertir en hábitos, carácter y 
-visión.                                                                                                  
-  Surgió de la siguiente intuición: Lo que aprendemos no es un tesoro que se encierra, sino una 
-herramienta que se comparte. El conocimiento que no circula se pudre. La reflexión que no se pone a prueba
-se vuelve dogma.
+Soy Carlos Reyes.
+Estudio medicina en la UNAH y, mientras aprendo el oficio, intento pensar la vida con un poco de orden.
+Pienso, leo y escribo porque descubrí que uno se vuelve más claro cuando se obliga a poner en palabras aquello que suele pasar de largo.
 
-Aquí convergen 4 líneas que estructuran mi formación y mi carácter:
-1. Medicina:
-  Es el núcleo duro de mi disciplina. Me interesa la academia, claramente; Pero me importa aún más comprender el
-sufrimiento humano, con una sensibilidad que no nos enseñan los libros. Este espacio es, en parte, mi intento
-de reconciliar ciencia, ética y humanidad.
-2. Filosofía:
-  Me gusta saber, pero me parece más importante saber pensar.
-En este espacio reflexiono conceptos, falacias, sesgos, argumentos a modo de resistirme al ruido del mundo
-que por su puesto, se convierte en ruido interior y silencia las cosas realmente importantes: nuestra busqueda
-de sentido.
-Saber pensar es mi manera de proteger la mente del autoengaño.
-4. Fé y ética:
-  No a modo de ornamentos, sino como prácticas que moldean decisiones.
-La fé y la ética obligan a que examinemos nuestras intenciones y actuemos con integridad; Y a construir
-carácter, el cual, nos obliga a sostener todo lo anterior incluso cuando nadie mira. Es importante explorar
-estos aspectos.
-5. Proyectos personales y escritura:
-  Documento proyectos que voy construyendo desde cero: Ideas, lectura, reflexiones. Para dejar constancia de un
-proceso real. Creo profundamente que uno no aprende solo para acumular, sino para transmitir; que cada cosa que
-uno entiende genera una responsabilidad: Compartirla con claridad.
+Me guía una intuición sencilla: si uno no piensa lo que vive, termina viviendo cosas que nunca pensó. Y si no se escribe, lo poco que se entiende se desvanece.
 
-Este blog existe para eso. Lo publicado ya me ayudó a mí. Si en el camino le sirve a alguien más, me basta.
+Con el tiempo, mis intereses se fueron acomodando en cuatro líneas que trato de cultivar:
+
+**Medicina**:
+La medicina me interesa como disciplina intelectual y como práctica humana.
+No es solo conocer enfermedades, sino aprender a observar sin prisa y sin cinismo.
+Aquí escribo para integrar lo clínico con lo humano y para recordar que cada paciente es una historia, no un diagnóstico abreviado.
+
+**Filosofía y pensamiento crítico**:
+Saber es importante, pero pensar bien es más importante todavía. Este espacio es donde ensayo ideas, examino supuestos, corrijo sesgos y resisto el ruido del mundo para escuchar algo más difícil: mi propio juicio.
+
+**Fe y ética**: 
+La fe, para mí, no es un escenario.
+La Biblia advierte contra convertir la espiritualidad en espectáculo.
+Estudio la Palabra como quien analiza un texto que lo supera: no para "parecer creyente", sino para entender mejor qué exige la coherencia moral y cómo se articula una vida que no se contradiga a sí misma.
+
+Investigo sus contextos, sus lenguajes y sus ideas porque encuentro ahí una brújula ética más exigente que cualquier discurso moderno.
+
+**Vida y proyectos**:
+Además de lo técnico, también escribo cosas que no buscan clasificarse: prosa, ensayos, apuntes sueltos, historias y observaciones que simplemente necesitan un lugar.
+A veces son ideas sobre disciplina o hábitos; otras, intentos por entender lo que siento o lo que veo.
+
+Descubrí que la virtud no aparece por inspiración, se va construyendo en lo que uno piensa, decide y registra.
+Este cuaderno me ayuda a ver si de verdad estoy creciendo
+o si solo estoy redactando bien mis excusas.
+
+Podriamos resumirlo así: escribo para entender;
+y publico para no olvidarme de lo que ya entendí.
+
+Si este proceso le sirve a alguien más, bienvenido.
